@@ -1,0 +1,23 @@
+li{
+    color: white;
+}
+h1{
+    color: white;
+}
+h2{
+    color:rgb(168, 109, 66);
+}
+#loginn{  
+    background-image: url("c:\Users\ADMIN\Downloads\loginnimg.jpg");
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 740px;
+   height: 550px;
+}
+/* img{
+   width: 740px;
+   height: 550px;
+} */
+/* .abcd{
+    text-transform: capitalize;
+} */
